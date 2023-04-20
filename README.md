@@ -2,6 +2,8 @@
 
 **Dataset Used:** [Accelerometer readings](https://archive.ics.uci.edu/ml/datasets/Accelerometer)
 
+**Conclusion:**  As the dataset is very large, the SVM model is not able to fit well and so the max accuracy is 0.421. Thus the convergence graph is coming out to be a straight line.
+
 | Number of Instances:  | 153000 |
 |-----------------------|--------|
 | Number of Attributes: | 5      |
